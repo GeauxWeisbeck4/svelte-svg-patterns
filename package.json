@@ -20,7 +20,7 @@
     "prettier": "^2.2.1",
     "save-svg-as-png": "^1.4.17",
     "sirv": "^1.0.7",
-    "convert-svg-to-png": "^0.5.0"
+    "convert-svg-to-png": "^0.6.4"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^16.0.0",
